@@ -1,0 +1,31 @@
+{
+    "products":[
+        {
+            "id" : 1,
+            "nome" : "Câmera Digital Samsung ES55 Preta com 10.2 megapixels, Zoom Óptico 3x, LCD 2.5 polegadas, Bateria Cartão 2GB",
+            "marca" : "Fujifilm",
+            "precoVenda" : 90.30,
+            "quantidade" : 135,
+            "departamento" : "Câmeras e Filmadoras",
+            "categoria" : "Câmeras Digitais"
+        },
+        {
+            "id" : 2,
+            "nome" : "Bicicleta Infantil Caloi Barbie Aro 16 Com Quadro Em Aco, Rosa",
+            "marca" : "Caloi",
+            "precoVenda" : 564.30,
+            "quantidade" : 28,
+            "departamento" : "Esporte, Lazer e Camping",
+            "categoria" : "Bicicletas"
+        },
+        {
+            "id" : 3,
+            "nome" : "Samsung Galaxy S21+ Prata, 6,7\", 5G, 128GB - SM-G996BZSJZTO + Galaxy Watch Active2  BT 44mm (Aluminio) - Prata",
+            "marca" : "Samsung",
+            "precoVenda" : 3788.00,
+            "quantidade" : 15,
+            "departamento" : "Smartphones",
+            "categoria" : "Samsung Galaxy"
+        }
+    ]
+}
